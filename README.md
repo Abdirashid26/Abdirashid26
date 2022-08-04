@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdirashid26" alt="abdirashid26" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/faisal_abdi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_abdi_dev?logo=twitter&style=for-the-badge" alt="faisal_abdi_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dev_abdi" target="blank"><img src="https://img.shields.io/twitter/follow/faisal_abdi_dev?logo=twitter&style=for-the-badge" alt="faisal_abdi_dev" /></a> </p>
 
 - 🔭 I’m currently working on [Kenium](https://github.com/Abdirashid26/Kenium)
 
