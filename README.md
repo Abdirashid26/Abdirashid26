@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m  Faisal Abdirashid a Passionate Android Developer.<br>🔭 I’m currently working on Kenium - An android app for blogging specifically designed for University Students in Kenya.<br>🌱 I’m currently learning Jetpack compose - Enjoying it more than I thought ;)<br>💬 Ask me about Android, Java, Kotlin , Firebase and Bootstrap.<br>⚡ Fun fact , The first computer “bug” was an actual real-life bug.
+👯 I’m  Faisal Abdirashid a Passionate Android Developer.<br>🌱 I’m currently learning Jetpack compose - Enjoying it more than I thought ;)<br>💬 Ask me about Android, Java, Kotlin , Firebase and Bootstrap.<br>⚡ Fun fact , The first computer “bug” was an actual real-life bug.
 
 
 ## 🌐 Socials:
