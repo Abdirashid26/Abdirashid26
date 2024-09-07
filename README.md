@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 Solution Provider - I specialize in backend development with a focus on fintech solutions. With expertise in Kotlin, Java, and Spring Boot, I create scalable and high-performance systems. My experience spans event-driven architectures with Apache Kafka, cloud solutions with AWS, and integrating payment gateways like M-Pesa using the Daraja API. I’m skilled in both SQL and NoSQL databases, and I’m passionate about designing efficient microservices architectures.
+👯 Solution Provider - I specialize in backend development with a focus on fintech solutions. With expertise in Kotlin, Java, and Spring Boot, I create scalable and high-performance systems. My experience spans event-driven architectures with Apache Kafka, cloud solutions with AWS, and integrating payment gateways. I’m skilled in both SQL and NoSQL databases, and I’m passionate about designing efficient microservices architectures.
 
 
 # 💻 Tech Stack:
